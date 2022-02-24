@@ -1,0 +1,527 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A satyrical poem on the most horrid and execrable Jesuitish Plot in 1678, for the assassination of the King, subversion of the government, destruction of Protestantism and introduction of popery also an humble address to His Most Sacred Majesty for the extirpation of popery / by a loyal subject to the King, a true son of the Church of England and a faithful servant to his countrey, W.M., Esq.</title>
+            <author>W. M., Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50105</idno>
+            <idno type="STC">Wing M107</idno>
+            <idno type="STC">ESTC R2667</idno>
+            <idno type="EEBO-CITATION">12412696</idno>
+            <idno type="OCLC">ocm 12412696</idno>
+            <idno type="VID">61574</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61574)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 282:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A satyrical poem on the most horrid and execrable Jesuitish Plot in 1678, for the assassination of the King, subversion of the government, destruction of Protestantism and introduction of popery also an humble address to His Most Sacred Majesty for the extirpation of popery / by a loyal subject to the King, a true son of the Church of England and a faithful servant to his countrey, W.M., Esq.</title>
+                  <author>W. M., Esq.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Cockerill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61574:1"/>
+            <p>A Satyrical Poem On the moſt HORRID and EXECRABLE Jeſuitiſh Plot in 1678. FOR THE ASSASSINATION OF THE KING, <hi>Subverſion</hi> of the GOVERNMENT, Deſtruction of PROTESTANTISM, And Introduction of POPERY.</p>
+            <q xml:lang="lat">Tantum Religio protuit Suadere Malorum?</q>
+            <p>Alſo an humble Addreſs to his moſt <hi>Sacred</hi> MAJESTY for the <hi>Extirpation</hi> of POPERY: By a <hi>Loyal Subject</hi> to the KING, a <hi>True Son</hi> of the CHURCH of <hi>ENGLAND,</hi> and a <hi>faith<g ref="char:EOLhyphen"/>ful Servant</hi> to his COUNTREY.</p>
+            <p>
+               <hi>W. M.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Cockerill</hi> at the <hi>Three Legs</hi> in the <hi>Poultry</hi> over againſt the <hi>Stocks-Market.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:61574:2"/>
+            <pb n="3" facs="tcp:61574:2"/>
+            <head>A Satyrical Poem, &amp;c.</head>
+            <lg>
+               <l>A PLOT! Heav'ns bleſs us! will the ROMISH <hi>Whore</hi>
+               </l>
+               <l>Never leave <hi>Teeming?</hi> will She ne'r give o're?</l>
+               <l>But like <hi>Impraegnate</hi> AETNA fright the <hi>World,</hi>
+               </l>
+               <l>With freſh <hi>Granados</hi> from her <hi>Entrails</hi> hurld;</l>
+               <l>Or, like her <hi>Mother-WOLF</hi> bring forth a <hi>Brood</hi>
+               </l>
+               <l>Of <hi>Miſcreant Whelps,</hi> t' be ſuckt with human BLOOD;</l>
+               <l>T' ravage the CHRISTIAN-<hi>Lambs</hi> with <hi>griping</hi> Claws,</l>
+               <l>A <hi>ravenous</hi> ſtomach, and <hi>Blood thirſty</hi> Jaws?</l>
+               <l>But, bleſt be Heav'ns! Th' <hi>Brats</hi> of the <hi>PAPAL</hi> Chair</l>
+               <l>(In general) <hi>Abortive</hi> EMBRYOS are.</l>
+            </lg>
+            <lg>
+               <l>A PLOT! <hi>Begot</hi> in th' DEVILS <hi>Limbo;</hi> come</l>
+               <l>Hither to <hi>life</hi> by th' <hi>Midwifery</hi> of <hi>ROME!</hi>
+               </l>
+               <l>Whoſe KEYS unlock all <hi>Conclaves,</hi> th' deepeſt <hi>Cell,</hi>
+               </l>
+               <l>As <hi>Beldam-Regent</hi> of the <hi>Earth</hi> and <hi>Hell;</hi>
+               </l>
+               <l>Or if than <hi>Hell</hi> a worſe place found can be,</l>
+               <l>There th' <hi>JES<g ref="char:V">Ʋ</g>ITS</hi> forg'd this <hi>damn'd</hi> CONSPIRACY.</l>
+               <l>
+                  <hi>Hells HEROSTRATIAN Fire-brands!</hi> who <hi>Conſpire</hi>
+               </l>
+               <l>To <hi>Chymify</hi> the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe</hi> by FIRE;</l>
+               <l>For, theſe IGNATIAN <hi>Bouteſeus</hi> do bear</l>
+               <l>A <hi>Spirit</hi> only fit for th' FIERY SPHERE!</l>
+            </lg>
+            <lg>
+               <l>A PLOT! of ſuch a <hi>Tincture</hi> and deep <hi>ſtain,</hi>
+               </l>
+               <l>That th' JESUITS now prove very <hi>Rogues in grain;</hi>
+               </l>
+               <l>SATANS prime <hi>Engineers;</hi> to <hi>Blow</hi> up STATES,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ndermine</hi> KINGDOMS, and Confound DEBATES:</l>
+               <l>
+                  <hi>Aſſaſſin</hi> PRINCES; make fond Fools believe</l>
+               <l>That <hi>Faith</hi> ought only t' <hi>hung</hi> on their POPES <hi>ſleeve:</hi>
+               </l>
+               <l>To <hi>Holocauſt</hi> whole <hi>Regions;</hi> Cheat and Gull</l>
+               <l>Their <hi>Proſelytes</hi> with a <hi>Bubble,</hi> or a <hi>Bull;</hi>
+                  <note n="*" place="margin">Bulla.</note>
+               </l>
+               <l>That CHURCH which can indulge ſuch <hi>Monſtrous Evils,</hi>
+               </l>
+               <l>Owns a RELIGION not for MEN but DEVILS!</l>
+            </lg>
+            <lg>
+               <l>A PLOT! of ſuch a <hi>Latitude;</hi> that cann't</l>
+               <l>Be comprehended, but a <hi>Name</hi> muſt want;</l>
+               <l>Nor can't be CHRISTNED; unleſs underſtood</l>
+               <l>(By its Intent) <hi>Baptiz'd</hi> in CHRISTIAN BLOOD;</l>
+               <pb n="4" facs="tcp:61574:3"/>
+               <l> But by the <hi>Monſters</hi> features We may gather</l>
+               <l>Its <hi>genealogick</hi> Title, <hi>Mother, Father;</hi>
+               </l>
+               <l>And by their <hi>Salvage</hi> Dogmeos th' <hi>World</hi> may ſee</l>
+               <l>Th' <hi>excellent</hi> Virtues, both of th' <hi>Fruit</hi> and <hi>Tree;</hi>
+               </l>
+               <l>The <hi>Holy</hi> JESUS never did aſcribe</l>
+               <l>
+                  <hi>Luſt, Avarice, Pride,</hi> as <hi>Texts</hi> for's <hi>holy Tribe;</hi>
+               </l>
+               <l>
+                  <hi>Love, Piety, Humility,</hi> were th' <hi>Leſſon</hi>
+               </l>
+               <l>
+                  <hi>Preacht</hi> to th' <hi>Diſciples</hi> of his <hi>pure Profeſſion;</hi>
+               </l>
+               <l>Who acts not then, as JESUS doth indite,</l>
+               <l>Is nor <hi>true</hi> CHRISTIAN, nor <hi>true</hi> JESUIT;</l>
+               <l>For the <hi>Red-Lettered</hi> PRIEST and LOYALIST</l>
+               <l>Are of th' <hi>Society</hi> of ANTI-CHRIST;</l>
+               <l>Nor CHRIST, nor PAUL, nor PETER, did command</l>
+               <l>
+                  <hi>Rebellion;</hi> to <hi>kill Kings;</hi> or <hi>damn</hi> a <hi>Land,</hi>
+               </l>
+               <l>To play the <hi>Wolf</hi> under a <hi>Sheep-skin, Wear</hi>
+               </l>
+               <l>Th' <hi>Poenitents Conſcience</hi> pendent at <hi>thy Ear;</hi>
+               </l>
+               <l>In <hi>Stones, Wood, Meddals,</hi> GLASS, to make, draw, Paint,</l>
+               <l>Adore, and Invocate a GOD, or <hi>Saint;</hi>
+               </l>
+               <l>T' <hi>Canonize, Malefactors,</hi> or diſpenſe</l>
+               <l>
+                  <hi>Saintſhip</hi> t' a <hi>BARABBAS,</hi> (for's <hi>Innocence.</hi>)</l>
+               <l>Th' GOSPEL expects no <hi>fiery Saints;</hi> but blames</l>
+               <l>That <hi>Zeal,</hi> that only doth conſiſt in <hi>Flames;</hi>
+               </l>
+               <l>
+                  <hi>Religion</hi> (by no Rules of <hi>Holy Word</hi>)</l>
+               <l>Is to be introduc'd by <hi>Fire</hi> and <hi>Sword;</hi>
+               </l>
+               <l>It craves no BLOODY <hi>Sacrifice,</hi> or t' make</l>
+               <l>Its progreſs by the <hi>Faggot</hi> and the <hi>Stake;</hi>
+               </l>
+               <l>He, that delights not in the <hi>Blood</hi> of <hi>Goats,</hi>
+               </l>
+               <l>Thirſts not for <hi>Offerings,</hi> by <hi>cutting Throats;</hi>
+               </l>
+               <l>Or <hi>Human Shambles;</hi> no <hi>Propitiations</hi>
+               </l>
+               <l>Can be intail'd from <hi>Heaven</hi> by ſuch <hi>Oblations;</hi>
+               </l>
+               <l>Th' <hi>Scripture</hi> preſcribes no <hi>Inquiſition;</hi> t' ſlay</l>
+               <l>Th' <hi>innocent</hi> Souls, and make their <hi>Wealth</hi> a prey;</l>
+               <l>Nor doth 't impoſe for <hi>Pardons Cuſtom-Rates,</hi>
+               </l>
+               <l>Or teach that MONEY <hi>opens</hi> HEAVEN'S ſtraight <hi>Gates;</hi>
+               </l>
+               <l>That <hi>PETER</hi> ſhould ſtand <hi>Porter,</hi> or have leiſure</l>
+               <l>To <hi>let in,</hi> or <hi>ſhut out,</hi> at th' POPES good pleaſure;</l>
+               <l>Or that his KEYS <hi>hang</hi> at th' POPES <hi>Girdle;</hi> t' have</l>
+               <l>A Patent-privilege to <hi>Damn</hi> or <hi>Save;</hi>
+               </l>
+               <l>T' <hi>open</hi> and <hi>ſhut Heaven's Portals;</hi> Or with <hi>Spell,</hi>
+               </l>
+               <l>And <hi>Exorciſms,</hi> to charm the powers of <hi>Hell;</hi>
+               </l>
+               <l>That the <hi>Flames</hi> of <hi>Purgatory</hi> quickned are,</l>
+               <l>Or dampt, by th' Breath of POPE <hi>JOANS grunting Chair;</hi>
+               </l>
+               <pb n="5" facs="tcp:61574:3"/>
+               <l> Or to invade a PRINCES Right, by ſwarms</l>
+               <l>Of <hi>Libels, Treachery,</hi> or <hi>Force</hi> of <hi>Arms;</hi>
+               </l>
+               <l>
+                  <hi>PA<g ref="char:V">Ʋ</g>LS Sword</hi> is thus ill us'd, nor's CHRISTS <hi>Flock</hi> ſafe</l>
+               <l>Under the Virge of ſuch a Shepherds Staff;</l>
+               <l>That th' HOLY GHOST ſhould act thus, cann't proceed</l>
+               <l>From the true CHRISTIAN APOSTOLICK CREED;</l>
+               <l>Such <hi>execrable</hi> Maxims cannot be</l>
+               <l>In th' <hi>Faith</hi> of th' CATHOLICK, though of th' <hi>ROMAN SEE;</hi>
+               </l>
+               <l>Whoſe <hi>Miſſals</hi> only may ſuch <hi>Rubricks</hi> claim</l>
+               <l>With <hi>Characters</hi> fit for her BLOODY fame;</l>
+               <l>Whilſt her <hi>Religious Politicks</hi> applaud</l>
+               <l>For GOSPEL-practiſe, all that 's <hi>Pious Fraud!</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <head>Votum Illuſtriſſimo Regi Carolo Secundo.</head>
+               <lg>
+                  <l>But, fear not, <hi>CHARLES!</hi> JEHOVAH is <hi>Thy Guard;</hi>
+                  </l>
+                  <l>Whoſe <hi>Angels</hi> keep for <hi>Thee</hi> ſtrict <hi>Watch</hi> and <hi>Ward;</hi>
+                  </l>
+                  <l>Let <hi>Hell</hi> and <hi>ROME</hi> club Wits; th' <hi>Superior</hi> fate</l>
+                  <l>Stands Centinel to <hi>protect Thy Throne</hi> and <hi>State;</hi>
+                  </l>
+                  <l>So that Their DEVILISH <hi>Cabal</hi> no power hath</l>
+                  <l>'Gainſt <hi>Thee</hi> th' <hi>Defender</hi> of th' <hi>true</hi> CHRISTIAN FAITH;</l>
+                  <l>Th' PROTESTANT Cauſe doth ſue for <hi>Thy Defence;</hi>
+                  </l>
+                  <l>Arm'd with 'ts <hi>own Piety</hi> and <hi>Innocence;</hi>
+                  </l>
+                  <l>Thy <hi>Loyal Subjects</hi> fear no <hi>Bulls,</hi> nor wonder</l>
+                  <l>At any <hi>Excommunicative</hi> Thunder;</l>
+                  <l>We dread no <hi>Helliſh Machinations;</hi> All</l>
+                  <l>Our care's t' <hi>prevent,</hi> or to <hi>Revenge Thy fall;</hi>
+                  </l>
+                  <l>And that <hi>Thou</hi> may'ſt our mutual Bliſs retrive,</l>
+                  <l>
+                     <hi>We pray</hi> CHARLES <hi>long may Reign,</hi> CHARLES <hi>long may live.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>We ruminate on th' <hi>paſt,</hi> and <hi>preſent</hi> Age;</l>
+                  <l>Th' <hi>Laments</hi> of <hi>BELGIA</hi> under <hi>D' AL<g ref="char:V">Ʋ</g>A</hi>'S Rage;</l>
+                  <l>Th' PARISIAN <hi>Barricadoes;</hi> PIEDMONTS Groans,</l>
+                  <l>(Potent to work Remorſe in th' <hi>ALPS</hi> and <hi>Stones;</hi>)</l>
+                  <l>Thoſe <hi>doleful</hi> NUPTIALS, which <hi>FRANCE</hi> did keep,</l>
+                  <l>When, for <hi>COLIGNI, BARTHOLOMEW</hi> did <hi>weep;</hi>
+                  </l>
+                  <l>That horrid INQUISITION, which doth rain</l>
+                  <l>Both BLOOD and FIRE, in <hi>PORT<g ref="char:V">Ʋ</g>GAL</hi> and <hi>SPAIN;</hi>
+                  </l>
+                  <l>Th' <hi>INVINCIBLE-ARMADO,</hi> and its Freight</l>
+                  <l>Of <hi>SPANISH</hi> VILLAINY in EIGHTY EIGHT.</l>
+               </lg>
+               <lg>
+                  <l>With horror and amazement, We Remember,</l>
+                  <l>QUEEN <hi>MARY</hi>'S <hi>Reign,</hi> and th' <hi>Fifth day</hi> of <hi>NOVEMBER;</hi>
+                  </l>
+                  <pb n="6" facs="tcp:61574:4"/>
+                  <l> The frequent <hi>Treaſons</hi> to attempt the death</l>
+                  <l>Of th' <hi>Ever-bleſs'd, (Good</hi> QUEEN) <hi>ELISABETH;</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Grandfather; Thy Father;</hi> and what e're</l>
+                  <l>Was deſtin'd by the <hi>IRISH Maſſacre;</hi>
+                  </l>
+                  <l>Or th' <hi>SCOTCH Rebellion;</hi> who firſt gave th' Alarm</l>
+                  <l>T' our late inſulting <hi>Demagogues,</hi> to warm</l>
+                  <l>
+                     <hi>Their hands</hi> by <hi>ENGLISH Flames;</hi> and teach them how</l>
+                  <l>To <hi>kill</hi> THREE KINGDOMS by <hi>one</hi> FATAL <hi>Blow;</hi>
+                  </l>
+                  <l>Whilſt <hi>Church</hi> and <hi>State</hi> made <hi>headleſs,</hi> might become</l>
+                  <l>A laughing <hi>Stock</hi> to th' WORLD; a <hi>prey</hi> to <hi>ROME.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nor is't unknown what <hi>Stratagems</hi> they 've laid</l>
+                  <l>That <hi>Thou</hi> (dear <hi>Prince!</hi>) and <hi>Thine</hi> might be <hi>betray'd;</hi>
+                  </l>
+                  <l>By <hi>Piſtol, Daggers, Poiſon;</hi> and what not,</l>
+                  <l>That could be thought by th' <hi>Junto</hi> of the PLOT;</l>
+                  <l>And (when almoſt th' <hi>whole Nation</hi> was t' be <hi>undone</hi>)</l>
+                  <l>Th' late <hi>diſmal</hi> CONFLAGRATION of <hi>LONDON;</hi>
+                  </l>
+                  <l>Brave <hi>GODFREY</hi>'S <hi>Blood</hi> to <hi>Thee,</hi> Great <hi>CHARLES!</hi> doth call</l>
+                  <l>For <hi>Vengeance</hi> on thoſe Barbarous PRIESTS of <hi>BAAL;</hi>
+                  </l>
+                  <l>Were <hi>all</hi> whoſe <hi>Murderers</hi> in one bunch engroſt,</l>
+                  <l>They 'ld make too ſmall an <hi>Hecatomb</hi> to 's <hi>Ghoſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let <hi>E<g ref="char:V">Ʋ</g>ROPE</hi> ſee <hi>Thy Juſtice</hi> is in grain,</l>
+                  <l>That <hi>Thou wearſt not Thy Crown,</hi> or <hi>Sword, in vain.</hi>
+                  </l>
+                  <l>Be <hi>zealous</hi> to exert <hi>Thy Right;</hi> maintain</l>
+                  <l>That, <hi>by</hi> GOD only, not <hi>by</hi> th' POPE, KINGS <hi>Reign.</hi>
+                  </l>
+                  <l>Since <hi>Thy Indulgence</hi> they abuſe, Let none</l>
+                  <l>Find ſhelter near the Shadow of <hi>Thy Throne.</hi>
+                  </l>
+                  <l>As they denounc'd <hi>Our Doomsday,</hi> Let it be</l>
+                  <l>Inverted to their own <hi>Cataſtrophe,</hi>
+                  </l>
+                  <l>Make th' POPISH <hi>Prieſts,</hi> and <hi>Jeſuits,</hi> ſtand in awe</l>
+                  <l>Of <hi>Execution</hi> by the <hi>S<g ref="char:V">Ʋ</g>EDISH Law.</hi>
+                  </l>
+                  <l>Thus <hi>Thou</hi> 'lt prevent the Progreſs of their <hi>Creed;</hi>
+                  </l>
+                  <l>And th' future <hi>Propagation</hi> of their <hi>Seed;</hi>
+                  </l>
+                  <l>Nor ſhall their Tribes of a <hi>Succeſſion</hi> vant</l>
+                  <l>In PAPIST <hi>Brats,</hi> or BASTARD <hi>Proteſtants;</hi>
+                  </l>
+                  <l>Though <hi>Thou</hi> art <hi>Good</hi> and <hi>Great, Thy Self</hi> out do;</l>
+                  <l>Be <hi>here,</hi> and be <hi>hereafter Glorious</hi> too;</l>
+                  <l>
+                     <hi>Thy</hi> Reſolution will ſecure <hi>Thy Own,</hi>
+                  </l>
+                  <l>And ſtrike a <hi>Palſey</hi> in the <hi>Triple Crown;</hi>
+                  </l>
+                  <l>T' will pleaſe th' amazed <hi>World,</hi> that th' POPE ſhould be</l>
+                  <l>
+                     <hi>Out-witted,</hi> and <hi>Dethrone himſelf, not Thee;</hi>
+                  </l>
+                  <l>That He's no more <hi>infallible,</hi> but took</l>
+                  <l>Falſe Meaſures from's <hi>Red-Letter'd Pocket-Book;</hi>
+                  </l>
+                  <pb n="7" facs="tcp:61574:4"/>
+                  <l> 
+                     <hi>Redeem GREAT-BRITAIN</hi> then from th' <hi>ROMISH Yoke;</hi>
+                  </l>
+                  <l>And make th' <hi>proud Biſhop tremble</hi> at <hi>Thy Stroak;</hi>
+                  </l>
+                  <l>Unpearch the JESUITS, Kick them out of th' Saddle,</l>
+                  <l>And all their <hi>Cockatrice eggs</hi> will prove <hi>addle;</hi>
+                  </l>
+                  <l>For, though their PLOTS (like BASILISKS) <hi>Kill, Conceal'd;</hi>
+                  </l>
+                  <l>Yet, bleſt be <hi>Heaven's!</hi> They <hi>dy,</hi> when once <hi>reveal'd.</hi>
+                  </l>
+                  <l>Extirpate <hi>PAPALISM;</hi> and then <hi>Truth</hi> ſhall</l>
+                  <l>Unveil'd triumph at th' <hi>BABILONIAN fall;</hi>
+                  </l>
+                  <l>Thy <hi>People</hi> grown Unanimous, and bold,</l>
+                  <l>Will raiſe <hi>Thee Statues,</hi> not of <hi>Braſs,</hi> but <hi>Gold;</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Empire</hi> then will need no other Arts,</l>
+                  <l>
+                     <hi>Thou'lt Rule</hi> Our <hi>Perſons, Purſes,</hi> and Our <hi>Hearts;</hi>
+                  </l>
+                  <l>And ſo wouldſt <hi>Reign,</hi> Bleſt by the <hi>Powers above,</hi>
+                  </l>
+                  <l>
+                     <hi>Abſolute Monarch</hi> in <hi>Thy Peoples Love;</hi>
+                  </l>
+                  <l>And ſtrong in this ſuport, <hi>Thy Arms</hi> advance</l>
+                  <l>Not to <hi>Oppoſe,</hi> but to <hi>Re-conquer</hi> FRANCE;</l>
+                  <l>PROTESTANTISM will own to <hi>Thy good Laws</hi>
+                  </l>
+                  <l>The chief <hi>Protection</hi> of its <hi>Sacred Cauſe,</hi>
+                  </l>
+                  <l>All 'ts <hi>Members</hi> re-unite without th' leaſt <hi>Schiſm;</hi>
+                  </l>
+                  <l>And <hi>POPERY</hi> prove th' only <hi>Fanaticiſm;</hi>
+                  </l>
+                  <l>
+                     <hi>PAPISTS</hi> th' Sole Hereticks; all elſe will be</l>
+                  <l>Aſham'd of <hi>Sects</hi> and <hi>Non-Corformity;</hi>
+                  </l>
+                  <l>Subſcribe to th' Teſt, and manifeſt a Zeal</l>
+                  <l>Fervent for th' <hi>Church, Thine,</hi> and the <hi>Common-weal;</hi>
+                  </l>
+                  <l>Let <hi>ROME, SPAIN, PORT<g ref="char:V">Ʋ</g>GAL,</hi> and <hi>FRANCE</hi> repine,</l>
+                  <l>Whilſt <hi>Thou doſt own GODS Glory, He'll own Thine.</hi>
+                  </l>
+                  <l>With <hi>Bell, Book, Candle,</hi> Let th' whole <hi>Conclave</hi> rail,</l>
+                  <l>Or Curſe; We fear not the <hi>Dragon</hi> or his <hi>Tail;</hi>
+                  </l>
+                  <l>GREAT BRITAIN will take <hi>heart at Grace,</hi> and riſe</l>
+                  <l>In honour t' be <hi>Thine</hi> and th' <hi>Worlds Paradiſe;</hi>
+                  </l>
+                  <l>Thy Royal <hi>Virtues</hi> then will <hi>ſhine</hi> at th' <hi>full,</hi>
+                  </l>
+                  <l>And none will need to <hi>crave,</hi> or <hi>fear</hi> th' POPES BULL.</l>
+                  <l>Our <hi>Loyal Hearts</hi> and <hi>Hands</hi> attend Thee; Thus</l>
+                  <l>Thou, truly wilt <hi>Defend Thy ſelf</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>s;</hi>
+                  </l>
+                  <l>This done, in Panegyricks we will Sing,</l>
+                  <l>CHARLES <hi>doth deſerve to be more than a</hi> KING.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="chronograms">
+            <pb n="8" facs="tcp:61574:5"/>
+            <head>CHRONOSTICHON.</head>
+            <div type="part">
+               <l>220 <hi>Perfas; perqUe nefas; sUperos, ACherontaqUe</hi> VeLLent,</l>
+               <l>1458 <hi>FLeCtere? ReLLIgIo</hi> eſt haeCCIne <hi>RoMa tUa?</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>ALI<g ref="char:V">Ʋ</g>D.</head>
+               <l>315 Iſta ne <hi>ReLLIgIo</hi> LIbUIt sCeLeroſa? <hi>PapatUs</hi>
+               </l>
+               <l>1363 <hi>HIC Labor, hoCopUs?</hi> eſt haeC sUa DIra FIDes.</l>
+            </div>
+            <div type="part">
+               <head>ALI<g ref="char:V">Ʋ</g>D.</head>
+               <l>193 <hi>ReX, LeX, GreX pereant;</hi> pereatqUe <hi>BrItannICUs OrbIs,</hi>
+               </l>
+               <l>271 <hi>Enſe, foCo,</hi> fUrCâ, eXantLato &amp; <hi>sangUIne;</hi> fata</l>
+               <l>1214 TaLIa <hi>RoMa AngLIs ReLLIgIosa</hi> VoVet.</l>
+            </div>
+            <div type="part">
+               <head>ALI<g ref="char:V">Ʋ</g>D.</head>
+               <l>1217 <hi>ConspIrent Pappae; MaChInetUr</hi> Vana <hi>PapatUs,</hi>
+               </l>
+               <l>243 <hi>ConIUratI-qUe</hi> eXUrgant eX aeqUore <hi>GaLLI;</hi>
+               </l>
+               <l>218 <hi>AngLIa tUta</hi> sUâ <hi>ReLLIgIone</hi> VaLet.</l>
+            </div>
+            <div type="part">
+               <head>ANGLICE.</head>
+               <l>416 A fUrIoUs zeaL the <hi>PapaLL ConCLaVe</hi> hath</l>
+               <l>109 For th' <hi>propogatIon</hi> of th' <hi>UnChrIſtIan FaIth,</hi>
+               </l>
+               <l>919 In aLL the EVILLs th' <hi>DeVILI</hi> Can InVent;</l>
+               <l>234 If not In <hi>HeaV'ns</hi> IUſt poWer, WIth <hi>HeLLs</hi> Conſent.</l>
+            </div>
+            <div type="part">
+               <head>ANOTHER.</head>
+               <l>819 By <hi>TreaCherIe</hi> or VILe <hi>PLots,</hi> t' ſoW th' <hi>ChrIſtIan</hi> ſeeD,</l>
+               <l>859 Is not In th' <hi>CathoLICk</hi> bUt th' <hi>PopIſh CreeD.</hi>
+               </l>
+               <l>
+                  <hi>ANOTHER.</hi>
+               </l>
+               <l>679 That th' <hi>KIng, LaW, PeopLe,</hi> In oUr <hi>BrItIſh WorLD,</hi>
+               </l>
+               <l>669 B' Into theIr RUIne, or ConfUsIon hUrLD,</l>
+               <l>140 Is th' <hi>PopIſh</hi> WIſh, Whoſe BrUtIſh <hi>faIth</hi> aLLoWes</l>
+               <l>190 SUCh <hi>IrreLIgIoUs</hi> eXtasIes In VoWs.</l>
+            </div>
+            <div type="part">
+               <head>ANOTHER.</head>
+               <l>1280 Let th' <hi>Pope</hi> WIth's <hi>IesUIts; RoMe</hi> WIth <hi>HeLL ConſpIre,</hi>
+               </l>
+               <l>221 In aLL the VILLanIes theIr fUrIoUs Ire</l>
+               <l>112 SUggeſts; Th' ProteCtor of oUr <hi>BrItIſh</hi> fate</l>
+               <l>65 SaVes th' <hi>pUre ReLIgIon</hi> In ſpIght of theIr hate.</l>
+            </div>
+            <div type="part">
+               <head>ANOTHER.</head>
+               <l>1539 Where <hi>IeſUItIſM's</hi> In poWer; Who Dare ſay,</l>
+               <l>139 OUr LIfe's oUr oWn, That LIVe not In theIr Way.</l>
+               <l>1678 MDCLXXVIII.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
